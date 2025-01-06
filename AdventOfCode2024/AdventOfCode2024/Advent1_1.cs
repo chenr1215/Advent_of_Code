@@ -11,7 +11,7 @@ class Advent1_1
         List<int> col1 = new List<int>();
         List<int> col2 = new List<int>();
 
-        using (StreamReader sr = new StreamReader("Data11.txt"))
+        using (StreamReader sr = new StreamReader("Data1_1.txt"))
         {
             line = sr.ReadLine();
 

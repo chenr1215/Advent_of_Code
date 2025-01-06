@@ -12,7 +12,7 @@ class Advent1_2
         List<int> col1 = new List<int>();
         List<int> col2 = new List<int>();
 
-        using (StreamReader sr = new StreamReader("Data11.txt"))
+        using (StreamReader sr = new StreamReader("C:\\Users\\richa\\OneDrive\\Documents\\GitHub\\Advent_of_Code\\AdventOfCode2024\\advent1_2\\TextFile1.txt"))
         {
             line = sr.ReadLine();
 
